@@ -19,4 +19,12 @@ $password = "123123";
 echo "$username";
 
 ?>
+<<<<<<< HEAD
 >>>>>>> 9435e635f4e3ddfbb3cb443207365a0d66b1614c
+=======
+
+
+new code added by subrata
+
+new line 2 by subrata-------------
+>>>>>>> 3126d94de36a7f7342abeb5de859e198fd66090c
