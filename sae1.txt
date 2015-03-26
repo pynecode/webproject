@@ -1,4 +1,4 @@
-test file1
+git test file1
 test line 2
 
 test line 3
@@ -6,6 +6,9 @@ test line 3
 new lines added from server
 
 
+<<<<<<< HEAD
+renan changes
+=======
 //Mats code
 
 <?php
@@ -16,10 +19,18 @@ $password = "123123";
 echo "$username";
 
 ?>
+<<<<<<< HEAD
+>>>>>>> 9435e635f4e3ddfbb3cb443207365a0d66b1614c
+=======
 
 
 new code added by subrata
 
+<<<<<<< HEAD
 //Mat
 
 Another code add to this text
+=======
+new line 2 by subrata-------------
+>>>>>>> 3126d94de36a7f7342abeb5de859e198fd66090c
+>>>>>>> d33cb39b6e4901a088fc7d781177ed7bc9cdfa64
