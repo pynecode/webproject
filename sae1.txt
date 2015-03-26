@@ -1,4 +1,4 @@
-test file1
+git test file1
 test line 2
 
 test line 3
@@ -26,8 +26,17 @@ echo "$username";
 
 new code added by subrata
 
+<<<<<<< HEAD
+//Mat
+
+Another code add to this text
+=======
 new line 2 by subrata-------------
 >>>>>>> 3126d94de36a7f7342abeb5de859e198fd66090c
+<<<<<<< HEAD
 
 
 new test line 22
+=======
+>>>>>>> d33cb39b6e4901a088fc7d781177ed7bc9cdfa64
+>>>>>>> 4f2e4f075930c7e7e196809793913377022d3045
